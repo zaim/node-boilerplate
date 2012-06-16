@@ -31,9 +31,3 @@ rm -rf .git
 rm -rf templates
 rm README.md
 rm -rf initproject.sh
-
-echo "Initing the new git project..."
-git init
-git add .
-git commit -m"Initial Commit"
-
